@@ -8,7 +8,7 @@ This repo contains my personal theme's configurations for Code::Blocks IDE and o
 
 2) **Rename and move .conf file to Code::Blocks IDE config folder:**
 
-* *Replace "<file_name.conf>" with the file's name you've chosen.*
+* *Replace "<file_name.conf>" with the file's name you are using.*
 
        mv <file_name.conf> /home/$USER/.config/codeblocks/default.conf
 
