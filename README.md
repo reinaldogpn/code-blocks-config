@@ -16,3 +16,5 @@ This repo contains my personal theme's configurations for Code::Blocks IDE and o
 * Allegro's integration options on these files does not work for flatpak or snap versions of CodeBlocks, I use it only on .deb version.
 
 * Allegro's integration options on these files requires installing Allegro 5.2's libraries in your system. If you haven't done it yet, you should get information about it on Allegro's website: https://liballeg.org/
+
+* I didn't make any of the themes in this repository, I just got it from the wide web.
