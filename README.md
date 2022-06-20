@@ -3,7 +3,7 @@ My personal config options for Code::Blocks IDE on variable operational systems.
 
 1) (Optional) Backup original "default.conf" file by just renaming it:
 
-       mv /home/$USER/.config/codeblocks/default.conf /home/$USER/.config/codeblocks/'(bkp)default.conf'
+       mv /home/$USER/.config/codeblocks/default.conf /home/$USER/.config/codeblocks/BKP_default.conf
 
 2) Rename .conf file (replace "<file_name.conf>" with the file's name you've chosen):
 
