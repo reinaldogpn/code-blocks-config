@@ -11,6 +11,6 @@ My personal config options for CodeBlocks on variable operational systems.
        
 ** It must replace the existing "default.conf" existing file.
 
-This file contains theme's configurations for CodeBlocks and options for adding Allegro 5.2's libraries in it's compiler.
+This file contains theme's configurations for CodeBlocks and options for adding Allegro 5.2's libraries on it's compiler.
 
 ** Allegro's integration options on these files does not work for flatpak or snap versions of CodeBlocks, I use it only on .deb version.
