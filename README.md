@@ -5,9 +5,9 @@ My personal config options for CodeBlocks on variable operational systems.
 
        default.conf
         
-2) Copy and paste "default.conf" file to:
+2) Copy and paste "default.conf" file to CodeBlocks config folder:
 
-       home/$USER/.config/codeblocks
+       cp default.conf /home/$USER/.config/codeblocks/
        
 ** It must replace the existing "default.conf" existing file.
 
