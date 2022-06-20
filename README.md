@@ -1,7 +1,7 @@
 # code-blocks-config
 My personal config options for Code::Blocks IDE on variable operational systems.
 
-1) Rename .conf file (replacing <file_name.conf> with the file version you've chosen):
+1) Rename .conf file (replace "<file_name.conf>" with the file's name you've chosen):
 
        mv <file_name.conf> default.conf
         
