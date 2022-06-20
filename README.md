@@ -9,7 +9,7 @@ My personal config options for Code::Blocks IDE on variable operational systems.
 
        cp default.conf /home/$USER/.config/codeblocks/
        
-** It must replace the existing "default.conf" existing file.
+* It must replace the "default.conf" existing default file.
 
 This file contains theme's configurations for Code::Blocks IDE and options for adding Allegro 5.2's libraries on it's compiler.
 
