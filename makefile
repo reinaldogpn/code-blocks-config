@@ -65,10 +65,12 @@ $(PROJ_NAME): $(OBJ)
 objFolder:
 	@ mkdir objects
 
+# Para linux:
 clean:
 	@ rm -rf ./objects/*.o $(PROJ_NAME) *~
 	@ rmdir objects
 
+# Para windows:
 wclean:
 	@ del /Q $(PROJ_NAME).exe
 	@ rmdir /S /Q objects
