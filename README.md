@@ -8,7 +8,9 @@ This repo contains my personal theme's configurations for Code::Blocks IDE and o
 
 2) **Copy files to Code::Blocks IDE config folder:**
 
-       cd ubuntu-cb-config/ && cp -r * /home/$USER/.config/codeblocks/
+- Replace _<folder_name>_ with the folder's name you have chosen based on your OS option.
+
+       cd <folder_name> && cp -r * /home/$USER/.config/codeblocks/
 #
 * Allegro's integration options on these files does not work for flatpak or snap versions of CodeBlocks, I use it only on .deb version.
 
