@@ -17,3 +17,5 @@ This repo contains my personal theme's configurations for Code::Blocks IDE and o
 * Allegro's integration options on these files requires installing Allegro 5.2's libraries in your system. If you haven't done it yet, you should get information about it on Allegro's website: https://liballeg.org/
 
 * I did not make any of the themes contained in this repository, I just got it from the wide web, don't remember the source though.
+
+* This repo also includes the default makefile I use for compiling my projects, it works with any C++ project.
